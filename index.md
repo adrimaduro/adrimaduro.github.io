@@ -9,3 +9,6 @@ Eu sou uma menina de Aruba; eu falo inglês, espanhol, e papiamento.
 1. Culinaria
 2. Futebol
 3. Leitura
+
+
+Eu tambem amo arquitetura e design de interiores brasileira
