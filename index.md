@@ -2,7 +2,7 @@
 layout: home
 ---
 # Bem-vindo a meu website!
-Eu sou uma menina de Aruba; eu falo inglê, espanhol, e papiamento. 
+Eu sou uma menina de Aruba; eu falo inglês, espanhol, e papiamento. 
 
 
 ## Meus hobbies:
