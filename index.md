@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 ---
 # Bem-vindo a meu website!
 Eu sou uma menina de Aruba; eu falo inglês, espanhol, e papiamento. 
