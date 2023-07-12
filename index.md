@@ -12,3 +12,4 @@ Eu sou uma menina de Aruba; eu falo inglês, espanhol, e papiamento.
 
 
 Eu tambem amo arquitetura e design de interiores brasileira
+![This is a picture of a living room designed by Brazilian architect Arthur Casas](arthurcasas.jpg)
